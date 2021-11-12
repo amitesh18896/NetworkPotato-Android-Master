@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Network Potato Example</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="image_list_fragment_label">Image List</string>
+
+</resources>

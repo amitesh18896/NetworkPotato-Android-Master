@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/ImageListFragment">
+
+    <fragment
+        android:id="@+id/ImageListFragment"
+        android:name="com.pallaw.networkpotatoexample.ImageFragment"
+        android:label="@string/image_list_fragment_label"
+        tools:layout="@layout/fragment_image_list" />
+</navigation>
